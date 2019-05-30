@@ -1,0 +1,1 @@
+use https://www.srihash.org/ generate link from cdn
